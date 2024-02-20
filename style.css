@@ -353,9 +353,9 @@ body {
 }
 
 .rsvp button {
-  background-color: var(--pink);
+  background-color: #555;
   color: white;
-  border: 1px solid var(--pink);
+  border: 1px solid #999);
 }
 
 .rsvp button:hover {
